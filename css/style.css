@@ -1,4 +1,4 @@
-div div {
+div[id^=col] {
   border: 1px solid black;
   height: 100px;
   width: 100px;
@@ -16,5 +16,4 @@ div div {
 
 #controls {
   clear: both;
-  margin: 15px;
 }
