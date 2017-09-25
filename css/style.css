@@ -1,0 +1,15 @@
+div div {
+  border: 1px solid black;
+  height: 100px;
+  width: 100px;
+  margin: 2px;
+  float: left
+}
+
+#row1, #row2, #row3 {
+  clear: both;
+}
+
+#controls {
+  clear: both;
+}
