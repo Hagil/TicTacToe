@@ -10,6 +10,11 @@ div div {
   clear: both;
 }
 
+#players {
+  clear:both;
+}
+
 #controls {
   clear: both;
+  margin: 15px;
 }
