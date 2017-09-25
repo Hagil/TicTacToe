@@ -1,1 +1,1 @@
-new site for tictactoe
+new site for TicTacToe
