@@ -1,19 +1,37 @@
-div[id^=col] {
-  border: 1px solid black;
-  height: 100px;
-  width: 100px;
-  margin: 2px;
+div[id^=s] {
+  border: 4px solid black;
+  height: 200px;
+  width: 200px;
+  margin: 4px;
   float: left
 }
 
 #row1, #row2, #row3 {
+  margin: 120px;
   clear: both;
 }
 
 #players {
   clear:both;
+  text-align: center;
+  padding: 13px;
 }
 
 #controls {
+  margin: 10px;
   clear: both;
+}
+
+h1 {
+  padding: 10px, 20px;
+  text-align: center;
+  text-transform: uppercase;
+}
+
+.Xclicked{
+  background-color: lightBlue;
+}
+
+.Oclicked{
+  background-color: red;
 }
